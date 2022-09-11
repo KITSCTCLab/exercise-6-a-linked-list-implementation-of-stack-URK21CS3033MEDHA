@@ -1,4 +1,33 @@
-
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@URK21CS3035 
+KITSCTCLab
+/
+exercise-6-a-linked-list-implementation-of-stack-URK21CS3035
+Public
+generated from brightvarghese/22_ODD_DS_Exercise-6.a
+Code
+Issues
+Pull requests
+1
+Actions
+Projects
+Wiki
+Security
+Insights
+exercise-6-a-linked-list-implementation-of-stack-URK21CS3035/Main.py /
+@URK21CS3035
+URK21CS3035 Update Main.py
+Latest commit 3e8b717 2 hours ago
+ History
+ 2 contributors
+@URK21CS3035@github-classroom
+57 lines (53 sloc)  1.26 KB
 
 class Node:
   def __init__(self, data):
