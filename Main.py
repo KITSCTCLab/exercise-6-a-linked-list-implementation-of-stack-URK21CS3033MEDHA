@@ -1,11 +1,11 @@
 class Node:
-  def __init__(self, data):
+  def _init_(self, data):
     self.data = data
     self.next = None
 
 
 class Queue:
-  def __init__(self):
+  def _init_(self):
     self.head = None
     self.last = None
 
